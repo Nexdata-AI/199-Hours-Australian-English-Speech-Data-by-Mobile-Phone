@@ -1,8 +1,10 @@
 # 199-Hours-Australian-English-Speech-Data-by-Mobile-Phone
-https://www.datatang.ai/datasets/1046
+
 
 ## Description
 This dataset is recorded by 402 native Australian speakers with a balanced gender. It is rich in content and it covers generic command and control;human-machine interaction; smart home command and control;in-car command and control categories. The transcription corpus has been manually proofread to ensure high accuracy.
+
+For more details, please refer to the link: https://bit.ly/3SeiM5I
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -24,3 +26,6 @@ English
 
 ## Applications
 speech recognition; voiceprint recognition.
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
